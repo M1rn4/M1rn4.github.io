@@ -1,4 +1,4 @@
-# hyperblog
++# hyperblog
 Nuevo blog
 # Editor.md
 
@@ -18,6 +18,7 @@ Image:
 ####Unordered list (plus sign and nested)
                 
 + Item A
++ Mirna stuvo aca
 + Item B
     + Item B 1
     + Item B 2
