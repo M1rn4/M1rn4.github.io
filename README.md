@@ -20,6 +20,11 @@ Image:
 + Item A
 + Mirna stuvo aca
 + Item B
+<<<<<<< HEAD
+=======
++ Dios te ama
++ Dios te ama 2
+>>>>>>> 361d258... readme mejorado
     + Item B 1
     + Item B 2
     + Item B 3
